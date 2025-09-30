@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QTSlowConvexHull_FILE /home/araya/Documents/Data/KUliah/Smstr5/QT/QTSlowConvexHull/build/Desktop_Qt_6_9_2-Debug/QTSlowConvexHull)
+set(__QT_DEPLOY_TARGET_QTSlowConvexHull_TYPE EXECUTABLE)

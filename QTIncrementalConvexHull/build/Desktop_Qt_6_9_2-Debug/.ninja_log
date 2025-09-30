@@ -1,0 +1,11 @@
+# ninja log v5
+1	190	1759233900355517993	QTIncrementalConvexHull_autogen/timestamp	3a640a94ecd2e0f
+1	190	1759233900355517993	QTIncrementalConvexHull_autogen/mocs_compilation.cpp	3a640a94ecd2e0f
+1	190	1759233900355517993	/home/araya/Documents/Data/KUliah/Smstr5/QT/QTIncrementalConvexHull/build/Desktop_Qt_6_9_2-Debug/QTIncrementalConvexHull_autogen/timestamp	3a640a94ecd2e0f
+1	190	1759233900355517993	/home/araya/Documents/Data/KUliah/Smstr5/QT/QTIncrementalConvexHull/build/Desktop_Qt_6_9_2-Debug/QTIncrementalConvexHull_autogen/mocs_compilation.cpp	3a640a94ecd2e0f
+191	1856	1759233902015527400	CMakeFiles/QTIncrementalConvexHull.dir/linewidget.cpp.o	a7b4e5b6bef80ef9
+191	2014	1759233902169528272	CMakeFiles/QTIncrementalConvexHull.dir/drawingcanvas.cpp.o	9406ce05ae1cb2ac
+191	2037	1759233902196528425	CMakeFiles/QTIncrementalConvexHull.dir/drawingwindow.cpp.o	8a9e3921fb97703a
+190	2150	1759233902311529077	CMakeFiles/QTIncrementalConvexHull.dir/QTIncrementalConvexHull_autogen/mocs_compilation.cpp.o	a8c57f64f1bc6b2d
+191	2250	1759233902410529638	CMakeFiles/QTIncrementalConvexHull.dir/main.cpp.o	9ebf5973129d2dd9
+2250	2506	1759233902671531117	QTIncrementalConvexHull	6cafedc7c24fc162
