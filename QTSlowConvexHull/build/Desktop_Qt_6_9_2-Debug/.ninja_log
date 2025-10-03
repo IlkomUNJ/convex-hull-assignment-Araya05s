@@ -1,0 +1,19 @@
+# ninja log v5
+1	3	0	CMakeFiles/clean.additional	27649e6a921fa0dd
+3	6	0	clean	a31eedcededa8236
+1	194	1759234082830549859	QTSlowConvexHull_autogen/timestamp	626249d7456d87db
+1	194	1759234082830549859	QTSlowConvexHull_autogen/mocs_compilation.cpp	626249d7456d87db
+1	194	1759234082830549859	/home/araya/Documents/Data/KUliah/Smstr5/QT/QTSlowConvexHull/build/Desktop_Qt_6_9_2-Debug/QTSlowConvexHull_autogen/timestamp	626249d7456d87db
+1	194	1759234082830549859	/home/araya/Documents/Data/KUliah/Smstr5/QT/QTSlowConvexHull/build/Desktop_Qt_6_9_2-Debug/QTSlowConvexHull_autogen/mocs_compilation.cpp	626249d7456d87db
+196	1942	1759234084571559686	CMakeFiles/QTSlowConvexHull.dir/linewidget.cpp.o	f1eb1a1bf1d42440
+195	1952	1759234084583559753	CMakeFiles/QTSlowConvexHull.dir/drawingwindow.cpp.o	b3a0568d6f062177
+195	1955	1759234084580559737	CMakeFiles/QTSlowConvexHull.dir/main.cpp.o	5cdf915d86a52dfe
+195	1971	1759234084603559866	CMakeFiles/QTSlowConvexHull.dir/QTSlowConvexHull_autogen/mocs_compilation.cpp.o	b352e95ae729bde0
+195	2340	1759234084968561926	CMakeFiles/QTSlowConvexHull.dir/drawingcanvas.cpp.o	fae5e35adf6a4e10
+2340	2587	1759234085223563366	QTSlowConvexHull	c96a1dc4d9c3e496
+2	14	1759234552426804802	QTSlowConvexHull_autogen/timestamp	626249d7456d87db
+2	14	1759234552426804802	QTSlowConvexHull_autogen/mocs_compilation.cpp	626249d7456d87db
+2	14	1759234552426804802	/home/araya/Documents/Data/KUliah/Smstr5/QT/QTSlowConvexHull/build/Desktop_Qt_6_9_2-Debug/QTSlowConvexHull_autogen/timestamp	626249d7456d87db
+2	14	1759234552426804802	/home/araya/Documents/Data/KUliah/Smstr5/QT/QTSlowConvexHull/build/Desktop_Qt_6_9_2-Debug/QTSlowConvexHull_autogen/mocs_compilation.cpp	626249d7456d87db
+15	1435	1759234557787484137	CMakeFiles/QTSlowConvexHull.dir/drawingwindow.cpp.o	b3a0568d6f062177
+1435	1685	1759234558043516143	QTSlowConvexHull	c96a1dc4d9c3e496

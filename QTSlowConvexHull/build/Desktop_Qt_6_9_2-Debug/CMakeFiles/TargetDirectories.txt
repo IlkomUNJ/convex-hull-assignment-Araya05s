@@ -1,0 +1,9 @@
+/home/araya/Documents/Data/KUliah/Smstr5/QT/QTSlowConvexHull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/QTSlowConvexHull.dir
+/home/araya/Documents/Data/KUliah/Smstr5/QT/QTSlowConvexHull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/edit_cache.dir
+/home/araya/Documents/Data/KUliah/Smstr5/QT/QTSlowConvexHull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/araya/Documents/Data/KUliah/Smstr5/QT/QTSlowConvexHull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/list_install_components.dir
+/home/araya/Documents/Data/KUliah/Smstr5/QT/QTSlowConvexHull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install.dir
+/home/araya/Documents/Data/KUliah/Smstr5/QT/QTSlowConvexHull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/local.dir
+/home/araya/Documents/Data/KUliah/Smstr5/QT/QTSlowConvexHull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/strip.dir
+/home/araya/Documents/Data/KUliah/Smstr5/QT/QTSlowConvexHull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/QTSlowConvexHull_autogen_timestamp_deps.dir
+/home/araya/Documents/Data/KUliah/Smstr5/QT/QTSlowConvexHull/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/QTSlowConvexHull_autogen.dir

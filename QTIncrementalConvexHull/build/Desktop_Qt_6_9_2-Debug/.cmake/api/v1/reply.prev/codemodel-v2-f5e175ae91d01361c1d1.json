@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-988973d4e7150a64f642.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QTIncrementalConvexHull",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QTIncrementalConvexHull::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QTIncrementalConvexHull-Debug-c98863b8d67b83e633b1.json",
+					"name" : "QTIncrementalConvexHull",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QTIncrementalConvexHull_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QTIncrementalConvexHull_autogen-Debug-2d1694c5bb2e9a34703d.json",
+					"name" : "QTIncrementalConvexHull_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QTIncrementalConvexHull_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QTIncrementalConvexHull_autogen_timestamp_deps-Debug-97b6efe42ccdab77b134.json",
+					"name" : "QTIncrementalConvexHull_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/araya/Documents/Data/KUliah/Smstr5/QT/QTIncrementalConvexHull/build/Desktop_Qt_6_9_2-Debug",
+		"source" : "/home/araya/Documents/Data/KUliah/Smstr5/QT/QTIncrementalConvexHull"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

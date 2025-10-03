@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QTIncrementalConvexHull_FILE /home/araya/Documents/Data/KUliah/Smstr5/QT/QTIncrementalConvexHull/build/Desktop_Qt_6_9_2-Debug/QTIncrementalConvexHull)
+set(__QT_DEPLOY_TARGET_QTIncrementalConvexHull_TYPE EXECUTABLE)
